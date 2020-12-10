@@ -1,0 +1,13 @@
+G:\c#\final\tile_match\bin\Debug\tile_match.exe.config
+G:\c#\final\tile_match\bin\Debug\tile_match.exe
+G:\c#\final\tile_match\bin\Debug\tile_match.pdb
+G:\c#\final\tile_match\obj\Debug\tile_match.csprojAssemblyReference.cache
+G:\c#\final\tile_match\obj\Debug\tile_match.game.resources
+G:\c#\final\tile_match\obj\Debug\tile_match.Properties.Resources.resources
+G:\c#\final\tile_match\obj\Debug\tile_match.csproj.GenerateResource.cache
+G:\c#\final\tile_match\obj\Debug\tile_match.csproj.CoreCompileInputs.cache
+G:\c#\final\tile_match\obj\Debug\tile_match.exe
+G:\c#\final\tile_match\obj\Debug\tile_match.pdb
+G:\c#\final\tile_match\obj\Debug\tile_match.Main_menu.resources
+G:\c#\final\tile_match\obj\Debug\tile_match.high_scores.resources
+G:\c#\final\tile_match\obj\Debug\tile_match.end_game.resources
